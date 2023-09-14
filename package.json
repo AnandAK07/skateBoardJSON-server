@@ -1,0 +1,26 @@
+{
+  "name": "json_server_deployment",
+  "version": "1.0.0",
+  "description": "1.npm init -y :->install package.json\r 2.npm i json-server cors json-serve :-> install the dependency (package.json is missing some dependency)\r 3.In package.json ->scripts->write in 1st line \"start\":\"node index.js\",",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnandAK07/JSON_Server_Deployment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnandAK07/JSON_Server_Deployment/issues"
+  },
+  "homepage": "https://github.com/AnandAK07/JSON_Server_Deployment#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
