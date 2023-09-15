@@ -150,5 +150,49 @@
           "price":270.00,
           "description":"A surfskate to fit everyone, this classic squash tailed shape is pressed in Carver’s innovative Hyperspoon mold, which folds up on three side at the nose to hug your front foot for greater carving control."
       }
-  ]
+  ],
+  "products":[
+    {
+        "id":1,
+        "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/739/3954/2023_lost_rad_ripper_cx__43331.1686805713.jpg",
+        "title":"Lost X Carver 31 Rad Ripper Tie Dye Surfskate Complete CX",
+        "price":250.00,
+        "description":"Extra wide for a smooth sidewalk glide, the Rad Ripper features a retro 80's viber with rainbow rails,tail wings and classic logos,while the longer wheelbase stretches out your stancec for a fast pumping ride.All ...Lost boards contain an exclusive “Progressive Rocker” concave through the length of the board. This Progressive Rocker concave is closely related to surfboard construction allowing for a reactive and performance based pump feature while skating. "
+         
+    },
+    {
+        "id":2,
+        "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/738/3952/2023_lost_rad_ripper_c7__43669.1686805502.jpg",
+        "title":"Lost X Carver 31 Rad Ripper Tie Dye Surfskate Complete C7",
+        "price":272.00,
+        "description":"Extra wide for a smooth sidewalk glide, the Rad Ripper features a retro 80's vibe with rainbow rails, tail wings and classic logos, while the longer wheelbase stretches out your stance for a fast pumping ride.All ...Lost boards contain an exclusive “Progressive Rocker” concave through the length of the board. This Progressive Rocker concave is closely related to surfboard construction allowing for a reactive and performance based pump feature while skating."
+    },
+    {
+        "id":3,
+        "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/735/3938/2023_ci_happy_every_day_cx__76754.1686804548.jpg",
+        "title":"Carver 30.75 Channel Islands Happy Everyday Surfskate Complete CX",
+        "price":270.00,
+        "description":"Our new Happy Everyday fills a need in every surfskater’s quiver: the everyday shortboard. This board was designed for high performance on the majority of terrain the majority of us skate every day, the Happy Everyday."
+    },
+    {
+        "id":4,
+        "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/734/3933/2023_ci_happy_every_dayc7__63443.1686804354.jpg",
+        "title":"Carver 30.75 Channel Islands Happy Everyday Surfskate Complete C7",
+        "price":285.00,
+        "description":"Our new Happy Everyday fills a need in every surfskater’s quiver: the everyday shortboard. This board was designed for high performance on the majority of terrain the majority of us skate every day, the Happy Everyday."
+    },
+    {
+        "id":5,
+        "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/733/4022/2023-yago-firegoat-cx__38338.1687997410.jpg",
+        "title":"Carver 30.75 Yago Fire Goat Surfskate Complete CX",
+        "price":270.00,
+        "description":"Yago Dora is a phenomenal surfer, bringing a deceptively easy style to massive airs and hair raising tube riding. He surfs and skates with a fire and passion that comes through in every turn, which inspired his latest pro model, The Fire Goat.We made his Fire Goat pro-model with the same high performance standards he requires, ensuring that when you push yourself hard like he does, your feet stay securely locked in between the double-kick mold, and you get the quick maneuverability needed to deliver on such demanding expectations. "
+    },
+    {
+        "id":6,
+        "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/732/4023/2023-yago-firegoat-c7__04627.1687997451.jpg",
+        "title":"Carver 30.75 Yago Fire Goat Surfskate Complete C7",
+        "price":285.00,
+        "description":"Yago Dora is a phenomenal surfer, bringing a deceptively easy style to massive airs and hair raising tube riding. He surfs and skates with a fire and passion that comes through in every turn, which inspired his latest pro model, The Fire Goat.We made his Fire Goat pro-model with the same high performance standards he requires, ensuring that when you push yourself hard like he does, your feet stay securely locked in between the double-kick mold, and you get the quick maneuverability needed to deliver on such demanding expectations. "
+    }]
 }
