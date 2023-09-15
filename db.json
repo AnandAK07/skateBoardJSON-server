@@ -1,257 +1,154 @@
 {
-    "products":[
-        {
-          "id": 1,
-          "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-          "price": 109.95,
-          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-          "category": "men's clothing",
-          "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-          "rating": {
-            "rate": 3.9,
-            "count": 120
-          }
-        },
-        {
-          "id": 2,
-          "title": "Mens Casual Premium Slim Fit T-Shirts ",
-          "price": 22.3,
-          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-          "category": "men's clothing",
-          "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-          "rating": {
-            "rate": 4.1,
-            "count": 259
-          }
-        },
-        {
-          "id": 3,
-          "title": "Mens Cotton Jacket",
-          "price": 55.99,
-          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-          "category": "men's clothing",
-          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-          "rating": {
-            "rate": 4.7,
-            "count": 500
-          }
-        },
-        {
-          "id": 4,
-          "title": "Mens Casual Slim Fit",
-          "price": 15.99,
-          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-          "category": "men's clothing",
-          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-          "rating": {
-            "rate": 2.1,
-            "count": 430
-          }
-        },
-        {
-          "id": 5,
-          "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-          "price": 695,
-          "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-          "category": "jewelery",
-          "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-          "rating": {
-            "rate": 4.6,
-            "count": 400
-          }
-        },
-        {
-          "id": 6,
-          "title": "Solid Gold Petite Micropave ",
-          "price": 168,
-          "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-          "category": "jewelery",
-          "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-          "rating": {
-            "rate": 3.9,
-            "count": 70
-          }
-        },
-        {
-          "id": 7,
-          "title": "White Gold Plated Princess",
-          "price": 9.99,
-          "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-          "category": "jewelery",
-          "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-          "rating": {
-            "rate": 3,
-            "count": 400
-          }
-        },
-        {
-          "id": 8,
-          "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-          "price": 10.99,
-          "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-          "category": "jewelery",
-          "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-          "rating": {
-            "rate": 1.9,
-            "count": 100
-          }
-        },
-        {
-          "id": 9,
-          "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-          "price": 64,
-          "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-          "category": "electronics",
-          "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
-          "rating": {
-            "rate": 3.3,
-            "count": 203
-          }
-        },
-        {
-          "id": 10,
-          "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-          "price": 109,
-          "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-          "category": "electronics",
-          "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
-          "rating": {
-            "rate": 2.9,
-            "count": 470
-          }
-        },
-        {
-          "id": 11,
-          "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
-          "price": 109,
-          "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-          "category": "electronics",
-          "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
-          "rating": {
-            "rate": 4.8,
-            "count": 319
-          }
-        },
-        {
-          "id": 12,
-          "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
-          "price": 114,
-          "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-          "category": "electronics",
-          "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
-          "rating": {
-            "rate": 4.8,
-            "count": 400
-          }
-        },
-        {
-          "id": 13,
-          "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-          "price": 599,
-          "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
-          "category": "electronics",
-          "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
-          "rating": {
-            "rate": 2.9,
-            "count": 250
-          }
-        },
-        {
-          "id": 14,
-          "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
-          "price": 999.99,
-          "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
-          "category": "electronics",
-          "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
-          "rating": {
-            "rate": 2.2,
-            "count": 140
-          }
-        },
-        {
-          "id": 15,
-          "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
-          "price": 56.99,
-          "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
-          "rating": {
-            "rate": 2.6,
-            "count": 235
-          }
-        },
-        {
-          "id": 16,
-          "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
-          "price": 29.95,
-          "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
-          "rating": {
-            "rate": 2.9,
-            "count": 340
-          }
-        },
-        {
-          "id": 17,
-          "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
-          "price": 39.99,
-          "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
-          "rating": {
-            "rate": 3.8,
-            "count": 679
-          }
-        },
-        {
-          "id": 18,
-          "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
-          "price": 9.85,
-          "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
-          "rating": {
-            "rate": 4.7,
-            "count": 130
-          }
-        },
-        {
-          "id": 19,
-          "title": "Opna Women's Short Sleeve Moisture",
-          "price": 7.95,
-          "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
-          "rating": {
-            "rate": 4.5,
-            "count": 146
-          }
-        },
-        {
-          "id": 20,
-          "title": "DANVOUY Womens T Shirt Casual Cotton Short",
-          "price": 12.99,
-          "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
-          "rating": {
-            "rate": 3.6,
-            "count": 145
-          }
-        }
-      ],
-      "cart":[
-        {
-          "id": 1,
-          "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-          "price": 109.95,
-          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-          "category": "men's clothing",
-          "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-          "rating": {
-            "rate": 3.9,
-            "count": 120
-          }
-        }]
+  "products":[
+      {
+          "id":1,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/739/3954/2023_lost_rad_ripper_cx__43331.1686805713.jpg",
+          "title":"Lost X Carver 31 Rad Ripper Tie Dye Surfskate Complete CX",
+          "price":250.00,
+          "description":"Extra wide for a smooth sidewalk glide, the Rad Ripper features a retro 80's viber with rainbow rails,tail wings and classic logos,while the longer wheelbase stretches out your stancec for a fast pumping ride.All ...Lost boards contain an exclusive “Progressive Rocker” concave through the length of the board. This Progressive Rocker concave is closely related to surfboard construction allowing for a reactive and performance based pump feature while skating. "
+           
+      },
+      {
+          "id":2,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/738/3952/2023_lost_rad_ripper_c7__43669.1686805502.jpg",
+          "title":"Lost X Carver 31 Rad Ripper Tie Dye Surfskate Complete C7",
+          "price":272.00,
+          "description":"Extra wide for a smooth sidewalk glide, the Rad Ripper features a retro 80's vibe with rainbow rails, tail wings and classic logos, while the longer wheelbase stretches out your stance for a fast pumping ride.All ...Lost boards contain an exclusive “Progressive Rocker” concave through the length of the board. This Progressive Rocker concave is closely related to surfboard construction allowing for a reactive and performance based pump feature while skating."
+      },
+      {
+          "id":3,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/735/3938/2023_ci_happy_every_day_cx__76754.1686804548.jpg",
+          "title":"Carver 30.75 Channel Islands Happy Everyday Surfskate Complete CX",
+          "price":270.00,
+          "description":"Our new Happy Everyday fills a need in every surfskater’s quiver: the everyday shortboard. This board was designed for high performance on the majority of terrain the majority of us skate every day, the Happy Everyday."
+      },
+      {
+          "id":4,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/734/3933/2023_ci_happy_every_dayc7__63443.1686804354.jpg",
+          "title":"Carver 30.75 Channel Islands Happy Everyday Surfskate Complete C7",
+          "price":285.00,
+          "description":"Our new Happy Everyday fills a need in every surfskater’s quiver: the everyday shortboard. This board was designed for high performance on the majority of terrain the majority of us skate every day, the Happy Everyday."
+      },
+      {
+          "id":5,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/733/4022/2023-yago-firegoat-cx__38338.1687997410.jpg",
+          "title":"Carver 30.75 Yago Fire Goat Surfskate Complete CX",
+          "price":270.00,
+          "description":"Yago Dora is a phenomenal surfer, bringing a deceptively easy style to massive airs and hair raising tube riding. He surfs and skates with a fire and passion that comes through in every turn, which inspired his latest pro model, The Fire Goat.We made his Fire Goat pro-model with the same high performance standards he requires, ensuring that when you push yourself hard like he does, your feet stay securely locked in between the double-kick mold, and you get the quick maneuverability needed to deliver on such demanding expectations. "
+      },
+      {
+          "id":6,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/732/4023/2023-yago-firegoat-c7__04627.1687997451.jpg",
+          "title":"Carver 30.75 Yago Fire Goat Surfskate Complete C7",
+          "price":285.00,
+          "description":"Yago Dora is a phenomenal surfer, bringing a deceptively easy style to massive airs and hair raising tube riding. He surfs and skates with a fire and passion that comes through in every turn, which inspired his latest pro model, The Fire Goat.We made his Fire Goat pro-model with the same high performance standards he requires, ensuring that when you push yourself hard like he does, your feet stay securely locked in between the double-kick mold, and you get the quick maneuverability needed to deliver on such demanding expectations. "
+      },
+      {
+          "id":7,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/731/3965/2023_JOB_Tiger_Aqua_CX__27890.1686852889.jpg",
+          "title":"31 J.O.B Aqua Tiger Surfskate Complete CX",
+          "price":270.00,
+          "description":"Jamie O’Brien’s idea of fun would be terrifying for most of us, but growing up in front of Pipeline must have conditioned him from an early age, because he joyously puts himself in some of the burliest conditions imaginable. His wave riding skills have earned him an impressive collection of titles and recognition as an elite pro, but it’s his fun-loving antics that have endeared him to fans around the world."
+      },
+      {
+          "id":8,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/730/3966/2023_JOB_Tiger_Aqua_C7__47496.1686852925.png",
+          "title":"31 J.O.B Aqua Tiger Surfskate Complete C7",
+          "price":285.00,
+          "description":"Jamie O’Brien’s idea of fun would be terrifying for most of us, but growing up in front of Pipeline must have conditioned him from an early age, because he joyously puts himself in some of the burliest conditions imaginable. His wave riding skills have earned him an impressive collection of titles and recognition as an elite pro, but it’s his fun-loving antics that have endeared him to fans around the world."
+      },
+      {
+          "id":9,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/729/3967/2023_JOB_Tiger_Pink_CX__75683.1686852986.png",
+          "title":"33.5 J.O.B Pink Tiger Surfskate Complete CX",
+          "price":270.00,
+          "description":"Jamie O’Brien’s idea of fun would be terrifying for most of us, but growing up in front of Pipeline must have conditioned him from an early age, because he joyously puts himself in some of the burliest conditions imaginable. His wave riding skills have earned him an impressive collection of titles and recognition as an elite pro, but it’s his fun-loving antics that have endeared him to fans around the world."
+      },
+      {
+          "id":10,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/728/3968/2023_JOB_Tiger_Pink_C7__45363.1686853023.png",
+          "title":"33.5 J.O.B Pink Tiger Surfskate Complete C7",
+          "price":285.00,
+          "description":"Jamie O’Brien’s idea of fun would be terrifying for most of us, but growing up in front of Pipeline must have conditioned him from an early age, because he joyously puts himself in some of the burliest conditions imaginable. His wave riding skills have earned him an impressive collection of titles and recognition as an elite pro, but it’s his fun-loving antics that have endeared him to fans around the world."
+      },
+      {
+          "id":11,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/702/3836/brophy_cx__20612.1686075126.jpg?",
+          "title":"Lost x Carver 32.5 Rocket Redux Brophy Surfskate Complete CX",
+          "price":250.00,
+          "description":"Before the endless charade of social media surfboard marketing melted our minds, real word of mouth made one little board iconic throughout the surfing world… the Rocket, reincarnated in the Redux for a new generation. Emblazened with the unmistakable art of Drew Brophy, this board stands out in the lineup."
+      },
+      {
+          "id":12,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/703/3839/brophy_c7__45458.1686265063.jpg?",
+          "title":"Lost x Carver 32.5 Rocket Redux Brophy Surfskate Complete C7",
+          "price":272.00,
+          "description":"Before the endless charade of social media surfboard marketing melted our minds, real word of mouth made one little board iconic throughout the surfing world… the Rocket, reincarnated in the Redux for a new generation. Emblazened with the unmistakable art of Drew Brophy, this board stands out in the lineup."
+      },
+      {
+          "id":14,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/700/3815/CarverBingContinentalCX2023_2Up__18869.1686074387.jpg",
+          "title":"Carver x Bing 37 Continental Surfskate Complete C7",
+          "price":285.00,
+          "description":"Bing Copeland began surfing at the Manhattan Beach pier in 1949 at age 13, and by the fall of 1959 he had opened his first surf shop with his friend Rick Stoner. Bing Surfboards quickly became one of the most influential surfboard manufactures of the sixties and early seventy’s, renowned for its expert craftsmanship. From his magic nose riders for legends like David Nuuhiwa, to his work with the Campbell Brothers and the introduction of the Bonzer, one of the most unique and enduring designs of the 60’s, his influence on surfing is profound. Bing Surfboards has gone through many changes throughout the years, but it has always remained true to the roots of surfing. Under the expert guidance of master shaper Matt Calvani, Bing Surfboards continues to refine classic nose riding boards and create innovative modern surf craft. Their logo remains one of the most iconic and recognizable in all of surfing, and Carver is proud to collaborate with such an icon."
+      },
+      {
+          "id":15,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/700/3815/CarverBingContinentalCX2023_2Up__18869.1686074387.jpg",
+          "title":"Carver x Bing 37 Continental Surfskate Complete CX",
+          "price":270.00,
+          "description":"Bing Copeland began surfing at the Manhattan Beach pier in 1949 at age 13, and by the fall of 1959 he had opened his first surf shop with his friend Rick Stoner. Bing Surfboards quickly became one of the most influential surfboard manufactures of the sixties and early seventy’s, renowned for its expert craftsmanship. From his magic nose riders for legends like David Nuuhiwa, to his work with the Campbell Brothers and the introduction of the Bonzer, one of the most unique and enduring designs of the 60’s, his influence on surfing is profound. Bing Surfboards has gone through many changes throughout the years, but it has always remained true to the roots of surfing. Under the expert guidance of master shaper Matt Calvani, Bing Surfboards continues to refine classic nose riding boards and create innovative modern surf craft. Their logo remains one of the most iconic and recognizable in all of surfing, and Carver is proud to collaborate with such an icon."
+      },
+      {
+          "id":16,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/699/3816/CarverBingPuckC72023_2Up__80529.1686074358.jpg",
+          "title":"Carver x Bing 27.5 Puck Surfskate Complete C7",
+          "price":285.00,
+          "description":"The 27.5” Bing Puck is a compact and lightweight shred machine, one of the shortest and widest in the Carver line up. It’s a combination that means this little ripper has insane rail control and super tight turning. Feel the true fusion of surf and skate when you step onto the Puck! With a 15” wheelbase it’s a fun and snappy ride for all ages and skill levels. Inspired by the agility and power of its hybrid surfboard counterpart, Carver's renowned CX and C7 truck system provides a dynamic and responsive ride, allowing riders to perform deep carves, tight turns, and smooth transitions with stability and agility. With a classic tail patch design and Sugarcoat top graphic this meticulously crafted surfskate is sure to become a collector's piece, if only you can resist riding it!"
+      },
+      {
+          "id":17,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/699/3816/CarverBingPuckC72023_2Up__80529.1686074358.jpg",
+          "title":"Carver x Bing 27.5 Puck Surfskate Complete CX",
+          "price":270.00,
+          "description":"The 27.5” Bing Puck is a compact and lightweight shred machine, one of the shortest and widest in the Carver line up. It’s a combination that means this little ripper has insane rail control and super tight turning. Feel the true fusion of surf and skate when you step onto the Puck! With a 15” wheelbase it’s a fun and snappy ride for all ages and skill levels. Inspired by the agility and power of its hybrid surfboard counterpart, Carver's renowned CX and C7 truck system provides a dynamic and responsive ride, allowing riders to perform deep carves, tight turns, and smooth transitions with stability and agility. With a classic tail patch design and Sugarcoat top graphic this meticulously crafted surfskate is sure to become a collector's piece, if only you can resist riding it!"
+      },
+
+      {
+          "id":18,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/693/3787/CarverChrysalis2022_1000X1000__44396.1669068179.jpg",
+          "title":"Carver 29.5 Chrysalis Surfskate Complete CX",
+          "price":250.00,
+          "description":"Carver proudly introduces Chrysalis with artwork by Jasmin Meier AKA Harley&J. A real charger, the Chrysalis is short and wide, perfectly designed for a snappy and fun surf trainer. Adorned by the talent of Harley & J this board is sure to get you movin’ and groovin’.Jasmin is a Graphic designer and Illustrator based in Byron Bay, Australia. Chrysalis features one of Jasmin’s signature swallowtail butterfliies eclipsed by the sun and the moon in an elegant 70’s color palette.In her own words Jasmin describes her art as “Captivated by the weird and wonderful.Inspired by the natural world and human form with a combination of 60's and 70's psychedelic music posters."
+      },
+
+      {
+          "id":19,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/604/3409/CarverJOBCamoTigerC7__20975.1681847504.jpg",
+          "title":"33.5 J.O.B Camo Tiger Surfskate 2022 Complete C7",
+          "price":285.00,
+          "description":"We wanted to make a bigger board for Jamie that could rise to the challenge of his wild exploits, so the Camo has a full nose kick for that locked-in feeling, and wider stance for fast carving and transition riding."
+      },
+      {
+          "id":20,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/604/3409/CarverJOBCamoTigerC7__20975.1681847504.jpg",
+          "title":"33.5 J.O.B Camo Tiger Surfskate 2022 Complete CX",
+          "price":270.00,
+          "description":"We wanted to make a bigger board for Jamie that could rise to the challenge of his wild exploits, so the Camo has a full nose kick for that locked-in feeling, and wider stance for fast carving and transition riding."
+      },
+      {
+          "id":21,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/602/3407/CarverJOBBlueTigerC7__10615.1686069531.jpg",
+          "title":"31 J.O.B Blue Tiger Surfskate 2022 Complete C7",
+          "price":285.00,
+          "description":"A surfskate to fit everyone, this classic squash tailed shape is pressed in Carver’s innovative Hyperspoon mold, which folds up on three side at the nose to hug your front foot for greater carving control."
+      },
+      {
+          "id":22,
+          "image":"https://cdn11.bigcommerce.com/s-icfw6t6sn3/images/stencil/380x380/products/733/4022/2023-yago-firegoat-cx__38338.1687997410.jpg?",
+          "title":"31 J.O.B Blue Tiger Surfskate 2022 Complete CX",
+          "price":270.00,
+          "description":"A surfskate to fit everyone, this classic squash tailed shape is pressed in Carver’s innovative Hyperspoon mold, which folds up on three side at the nose to hug your front foot for greater carving control."
+      }
+  ]
 }
